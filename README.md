@@ -1,2 +1,2 @@
-#1 My App
-This is my App and the writing is for README
+# My App
+This is a README file for description.It contains description about repository
